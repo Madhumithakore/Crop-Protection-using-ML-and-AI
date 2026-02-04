@@ -45,5 +45,4 @@ This project presents an AI-powered solution for crop protection by detecting ag
 
 ---
 
-## 📁 Project Structure
 
